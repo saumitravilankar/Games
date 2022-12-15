@@ -1,0 +1,13 @@
+/* td{
+  border : 1px solid black;
+  border-radius: 10px;
+  width: 100px;
+  height: 100px;
+  text-align: center;
+} */
+button{
+  width: 100px;
+  height: 100px;
+  background: gray;
+  border-radius: 50%;
+}
